@@ -1,0 +1,20 @@
+0000,AAAA,000,Test,Undergraduate
+7122,ICSI,213,Data Structures,Undergraduate
+9797,ICSI,311,Principles of Programming Languages,Undergraduate
+9397,AAFS,209,Black American Music,Undergraduate
+3980,HHPM,645,Global Health,Graduate
+6762,AAFS,142,Afro/Arfro-Amer Literature,Undergraduate
+6401,AAFS,219,Intro to Afro/Arfro-Amer History,Undergraduate
+4970,AANT,318,Human Anatomy Physiology II,Undergraduate
+5608,APSY,397,Directed Research in Psych,Undergraduate
+3090,AMAT,108,Elementary Statistics,Undergraduate
+6538,ATHR,240,Acting I,Undergraduate
+6910,IECE,697,Graduate Indpnt Study and Rsrc,Graduate
+7733,CIST,699,Master's Thesis in ISP,Graduate
+8964,ALIN,697,Independent Study and Research,Graduate
+10170,AART,144,Photography and Related Media,Undergraduate
+1334,ACHM,223,Organic Chemistry Laboraor II,Undergraduate
+9526,AECO,341,Urban Economics,Undergraduate
+7170,AHIS,390,Adv.Topics in American History,Undergraduate
+10209,AATM,699,Masters Theis,Graduate
+5459,BACC,312,Financial Accounting Theory II,Undergraduate
